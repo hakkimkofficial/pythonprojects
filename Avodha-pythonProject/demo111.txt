@@ -1,0 +1,4 @@
+Hello World!
+This is a demo file.
+We are writing some data to it.
+And finally, we will close it.
